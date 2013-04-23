@@ -1,0 +1,4 @@
+[2013-04-23 03:47:35,554] [main] [] [] [search.impl.ConfigContext.getLuceneMatchVersion] HSEARCH000075: Configuration setting hibernate.search.lucene_version was not specified, using LUCENE_CURRENT.
+[2013-04-23 03:47:36,204] [main] [] [] [hibernate.id.UUIDHexGenerator.<init>] HHH000409: Using org.hibernate.id.UUIDHexGenerator which does not generate IETF RFC 4122 compliant UUID values; consider using org.hibernate.id.UUIDGenerator instead
+[2013-04-23 03:48:43,995] [qtp20006779-474] [13ud5p1kkufu61a3hbsshcvfj3] [anonymousUser] [web.util.LogPhaseListener.afterPhase] RESTORE_VIEW 1
+[2013-04-23 03:48:45,815] [qtp20006779-474] [13ud5p1kkufu61a3hbsshcvfj3] [anonymousUser] [web.util.LogPhaseListener.afterPhase] RENDER_RESPONSE 6
